@@ -1,0 +1,108 @@
+<NotepadPlus>
+    <Project name="Nicole">
+        <Folder name="www">
+            <Folder name="css">
+                <File name="www\css\index.css" />
+            </Folder>
+            <Folder name="img">
+                <Folder name="chris">
+                    <File name="www\img\chris\saint.jpg" />
+                </Folder>
+                <File name="www\img\logo.png" />
+            </Folder>
+            <Folder name="js">
+                <Folder name="img">
+                    <File name="www\js\img\saint.jpg" />
+                </Folder>
+                <File name="www\js\index.js" />
+                <File name="www\js\notes.txt" />
+            </Folder>
+            <Folder name="res">
+                <Folder name="icon">
+                    <Folder name="android">
+                        <File name="www\res\icon\android\icon-36-ldpi.png" />
+                        <File name="www\res\icon\android\icon-48-mdpi.png" />
+                        <File name="www\res\icon\android\icon-72-hdpi.png" />
+                        <File name="www\res\icon\android\icon-96-xhdpi.png" />
+                    </Folder>
+                    <Folder name="bada">
+                        <File name="www\res\icon\bada\icon-128.png" />
+                    </Folder>
+                    <Folder name="bada-wac">
+                        <File name="www\res\icon\bada-wac\icon-48-type5.png" />
+                        <File name="www\res\icon\bada-wac\icon-50-type3.png" />
+                        <File name="www\res\icon\bada-wac\icon-80-type4.png" />
+                    </Folder>
+                    <Folder name="blackberry">
+                        <File name="www\res\icon\blackberry\icon-80.png" />
+                    </Folder>
+                    <Folder name="ios">
+                        <File name="www\res\icon\ios\icon-57-2x.png" />
+                        <File name="www\res\icon\ios\icon-57.png" />
+                        <File name="www\res\icon\ios\icon-72-2x.png" />
+                        <File name="www\res\icon\ios\icon-72.png" />
+                    </Folder>
+                    <Folder name="tizen">
+                        <File name="www\res\icon\tizen\icon-128.png" />
+                    </Folder>
+                    <Folder name="webos">
+                        <File name="www\res\icon\webos\icon-64.png" />
+                    </Folder>
+                    <Folder name="windows-phone">
+                        <File name="www\res\icon\windows-phone\icon-173-tile.png" />
+                        <File name="www\res\icon\windows-phone\icon-48.png" />
+                        <File name="www\res\icon\windows-phone\icon-62-tile.png" />
+                    </Folder>
+                </Folder>
+                <Folder name="screen">
+                    <Folder name="android">
+                        <File name="www\res\screen\android\screen-hdpi-landscape.png" />
+                        <File name="www\res\screen\android\screen-hdpi-portrait.png" />
+                        <File name="www\res\screen\android\screen-ldpi-landscape.png" />
+                        <File name="www\res\screen\android\screen-ldpi-portrait.png" />
+                        <File name="www\res\screen\android\screen-mdpi-landscape.png" />
+                        <File name="www\res\screen\android\screen-mdpi-portrait.png" />
+                        <File name="www\res\screen\android\screen-xhdpi-landscape.png" />
+                        <File name="www\res\screen\android\screen-xhdpi-portrait.png" />
+                    </Folder>
+                    <Folder name="bada">
+                        <File name="www\res\screen\bada\screen-portrait.png" />
+                    </Folder>
+                    <Folder name="bada-wac">
+                        <File name="www\res\screen\bada-wac\screen-type3.png" />
+                        <File name="www\res\screen\bada-wac\screen-type4.png" />
+                        <File name="www\res\screen\bada-wac\screen-type5.png" />
+                    </Folder>
+                    <Folder name="blackberry">
+                        <File name="www\res\screen\blackberry\screen-225.png" />
+                    </Folder>
+                    <Folder name="ios">
+                        <File name="www\res\screen\ios\screen-ipad-landscape-2x.png" />
+                        <File name="www\res\screen\ios\screen-ipad-landscape.png" />
+                        <File name="www\res\screen\ios\screen-ipad-portrait-2x.png" />
+                        <File name="www\res\screen\ios\screen-ipad-portrait.png" />
+                        <File name="www\res\screen\ios\screen-iphone-landscape-2x.png" />
+                        <File name="www\res\screen\ios\screen-iphone-landscape.png" />
+                        <File name="www\res\screen\ios\screen-iphone-portrait-2x.png" />
+                        <File name="www\res\screen\ios\screen-iphone-portrait-568h-2x.png" />
+                        <File name="www\res\screen\ios\screen-iphone-portrait.png" />
+                    </Folder>
+                    <Folder name="tizen">
+                        <File name="www\res\screen\tizen\README.md" />
+                    </Folder>
+                    <Folder name="webos">
+                        <File name="www\res\screen\webos\screen-64.png" />
+                    </Folder>
+                    <Folder name="windows-phone">
+                        <File name="www\res\screen\windows-phone\screen-portrait.jpg" />
+                    </Folder>
+                </Folder>
+                <File name="www\res\.pgbomit" />
+                <File name="www\res\notes.txt" />
+            </Folder>
+            <File name="www\config.xml" />
+            <File name="www\icon.png" />
+            <File name="www\index.html" />
+        </Folder>
+    </Project>
+</NotepadPlus>

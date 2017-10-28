@@ -1,0 +1,43 @@
+﻿html{
+    background:url(../img/chris/saint.jpg) no-repeat fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body {
+    position:relative;             /* position in the center of the screen */
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:12px;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    width:100%;
+}
+
+/* Portrait layout (default) */
+
+.app {
+}
+.txtBack {
+	background-color: #990000;
+	background-position: left;
+	border: thin solid #600000;
+	position: static;
+	width: 65%;
+	overflow: visible;
+	top:35%;
+	vertical-align: 10%;
+	text-align: justify;
+	white-space: wrap;
+}
+.caption {
+	font-size:200%;
+	word-spacing: normal;
+	letter-spacing: normal;
+	color: #CC66FF;
+}
